@@ -1,1 +1,1 @@
-# javascript-11-march
+These are UX Development class assignments from 11th March.
